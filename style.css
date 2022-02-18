@@ -1,0 +1,11 @@
+#H1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: auto;
+    text-shadow: 15px black;
+    text-decoration-color: white;
+}
+
+body{
+    background-size:cover;
+    text-align: center;
+}
